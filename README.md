@@ -15,3 +15,4 @@ The projects included in this repository cover the following machine learning al
 
 Each project is implemented using Python and popular libraries such as NumPy, pandas, scikit-learn, and matplotlib.
 
+**Note:** These projects are designed for educational purposes and may not cover advanced topics or optimizations. They serve as a starting point for understanding basic machine learning concepts and algorithms.
