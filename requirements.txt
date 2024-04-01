@@ -1,0 +1,10 @@
+## Requirements
+
+- Python (>=3.6)
+- Jupyter Notebook or JupyterLab
+- NumPy
+- pandas
+- scikit-learn
+- matplotlib
+
+You can install the required Python libraries using `pip install -r requirements.txt`.
